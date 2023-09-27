@@ -1,4 +1,5 @@
 http://backend.course#harenajo
 http://backend.course?name=%D0%9B%D1%96%D0%BD%D1%8C%D0%BE%D0%B2%D0%B0%2520%D0%AE%D0%BB%D1%96%D1%8F&github_name=harenajo&group=%D0%A4%D0%95%D0%86-21%D1%81&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%25202%0D%0A
+https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=201905&json
 
 
